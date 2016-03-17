@@ -48,3 +48,4 @@ int main() {
   assert(w1->GetId() == "w1");
   return 0;
 }
+
